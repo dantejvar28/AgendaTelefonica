@@ -1,0 +1,13 @@
+C:\ProgOrObj\AgendaTelefonica1.1\AgendaTelefonica1.1\AgendaTelefonica1.1\bin\Debug\AgendaTelefonica1.1.exe
+C:\ProgOrObj\AgendaTelefonica1.1\AgendaTelefonica1.1\AgendaTelefonica1.1\bin\Debug\AgendaTelefonica1.1.pdb
+C:\ProgOrObj\AgendaTelefonica1.1\AgendaTelefonica1.1\AgendaTelefonica1.1\obj\x86\Debug\AgendaTelefonica1._1.Form1.resources
+C:\ProgOrObj\AgendaTelefonica1.1\AgendaTelefonica1.1\AgendaTelefonica1.1\obj\x86\Debug\AgendaTelefonica1._1.Properties.Resources.resources
+C:\ProgOrObj\AgendaTelefonica1.1\AgendaTelefonica1.1\AgendaTelefonica1.1\obj\x86\Debug\AgendaTelefonica1.1.csproj.GenerateResource.Cache
+C:\ProgOrObj\AgendaTelefonica1.1\AgendaTelefonica1.1\AgendaTelefonica1.1\obj\x86\Debug\AgendaTelefonica1.1.exe
+C:\ProgOrObj\AgendaTelefonica1.1\AgendaTelefonica1.1\AgendaTelefonica1.1\obj\x86\Debug\AgendaTelefonica1.1.pdb
+C:\ProgOrObj\AgendaTelefonica1.1\AgendaTelefonica1.1\AgendaTelefonica1.1\obj\x86\Debug\AgendaTelefonica1._1.VerAgenda.resources
+C:\ProgOrObj\AgendaTelefonica1.1\AgendaTelefonica1.1\AgendaTelefonica1.1\obj\x86\Debug\AgendaTelefonica1._1.VerTelefonos.resources
+C:\ProgOrObj\AgendaTelefonica1.1\AgendaTelefonica1.1\AgendaTelefonica1.1\obj\x86\Debug\AgendaTelefonica1.1.csprojResolveAssemblyReference.cache
+C:\ProgOrObj\AgendaTelefonica1.1\AgendaTelefonica1.1\AgendaTelefonica1.1\obj\x86\Debug\AgendaTelefonica1._1.EditarDatos.resources
+C:\ProgOrObj\AgendaTelefonica1.1\AgendaTelefonica1.1\AgendaTelefonica1.1\obj\x86\Debug\AgendaTelefonica1._1.BorrarContacto.resources
+C:\ProgOrObj\AgendaTelefonica1.1\AgendaTelefonica1.1\AgendaTelefonica1.1\obj\x86\Debug\AgendaTelefonica1._1.Form2.resources
